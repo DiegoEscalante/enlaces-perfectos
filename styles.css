@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: #ffe9e3;
+}
+
+.navbar{
+    width: 100vw;
+    height: 6vh;
+    background-color: #b82132;
+    ul{
+        display: flex;
+        justify-content: end;
+        background: transparent;
+        li:first-child{
+            display: flex;
+            justify-self: start;
+        }
+        li{
+            display: inline-block;
+            background: transparent;
+            list-style: none;
+
+        }
+    }
+}
+
+.content-card{
+    display: flex;
+    justify-content: ;   
+}
