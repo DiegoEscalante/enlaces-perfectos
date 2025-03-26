@@ -1,31 +1,128 @@
 *{
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
+    font-family: 'Ilumno', sans-serif;
+    
+    
+}
+
+body{
     background-color: #ffe9e3;
+}
+
+p{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 3vh 5vw;
+    font-size: clamp(0.85rem, 2vw, 1.15rem); 
+    line-height: 1.6;
 }
 
 .navbar{
     width: 100vw;
-    height: 6vh;
+    height: 10vh;
     background-color: #b82132;
-    ul{
-        display: flex;
-        justify-content: end;
-        background: transparent;
-        li:first-child{
-            display: flex;
-            justify-self: start;
-        }
-        li{
-            display: inline-block;
-            background: transparent;
-            list-style: none;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: fixed;
+    top: 0;
+    z-index: 1000;
+}
 
-        }
+.nav-links {
+    width: 100%;
+    padding-left: 2vw;
+    background-color: #b82132;
+    list-style: none;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.nav-links a{
+    background-color: #b82132;
+    color: white;
+    text-decoration: none !important;
+    font-weight: normal;
+}
+
+.content-card1{
+    display: flex;
+    justify-content: center;   
+}
+
+.title{
+    padding-top: 11vh;
+}
+
+#who-we-are{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.text-who-we-are{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+
+.AndriusLina, .ProfesorStella, .MargeGulio{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.image-button1, .image-button2, .image-button3{
+    aspect-ratio: 16 / 9;
+    width: 75vw;
+    max-width: 800px;
+}
+
+.image-carousel1, .image-carousel2, .image-carousel3{
+    height: 100%;
+    width: 100%;
+}
+
+.text-carousel1, .text-carousel2, .text-carousel3{
+    display: none;
+}
+
+.logo-sabana{
+    display: none;
+}
+
+.left-arrow, .right-arrow{
+    width: 5vw;
+    height: auto;
+    max-width: 40px;
+}
+
+@media (min-height:500px){
+    .navbar{
+        height: 50px;
+    }
+    .title{
+        padding-top: 55px;
     }
 }
 
-.content-card{
-    display: flex;
-    justify-content: ;   
+@media (min-width:700px){
+    .logo-sabana{
+        display: block;
+        height: 40px;
+        width: auto;
+    }
+    .navbar{
+        justify-content: space-evenly;
+        padding: 0 10px;
+    }
+    .nav-links{
+        align-items: center;
+    }
 }
