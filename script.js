@@ -69,9 +69,9 @@ createCarousel(
       "./images/AndriusLina3.jpg"
     ],
     [
-      "Texto para imagen 1: Amor y libertad.",
-      "Texto para imagen 2: Resistencia y esperanza.",
-      "Texto para imagen 3: Compromiso mutuo en medio del conflicto."
+      "Lina mantiene su dignidad al conservar su identidad como artista, incluso en medio del horror. Sus dibujos son un acto de resistencia y amor propio, una forma de no dejarse vencer por el dolor ni olvidar quién es realmente.",
+      "Elena, la madre de Lina, ejerce su libertad al elegir amar y ayudar a otros, pese a estar prisionera. Su bondad constante demuestra que la libertad interior sigue viva cuando se actúa con integridad y se rechaza el odio.",
+      "Andrius asume con valentía el cuidado de su madre y el apoyo a Lina, mostrando responsabilidad emocional. A través de ese vínculo, él y Lina encuentran una forma de felicidad, construida en medio del sufrimiento y basada en el amor verdadero."
     ],
     {
       left: ".left-button",
@@ -89,9 +89,9 @@ createCarousel(
       "./images/ProfesorStella3.jpg"
     ],
     [
-      "Texto 1: La conexión intelectual.",
-      "Texto 2: Comprensión emocional.",
-      "Texto 3: Amor auténtico y maduro."
+      "La relación entre el profesor y Stella empieza con una conexión emocional, pero avanza gracias a gestos de cuidado y escucha. Él va más allá del sentimiento, mostrando interés genuino que ayuda a construir un amor más profundo y racional.",
+      "Ambos se respetan, se comunican con empatía y valoran sus diferencias. Se conocen poco a poco, creando un vínculo basado en identidad, intimidad y complementariedad, lo que fortalece su relación de forma sana y estable.",
+      "El profesor combina emoción y acción: siente afecto por Stella y actúa para apoyarla. Ella, con libertad, responde desde la reciprocidad. Esta unión de sentimiento y decisión convierte su relación en un amor maduro y real."
     ],
     {
       left: ".left-button2",
@@ -109,9 +109,9 @@ createCarousel(
       "./images/MargeGulio3.jpg"
     ],
     [
-      "Texto 1: Ilusión inicial.",
-      "Texto 2: Crisis del vínculo.",
-      "Texto 3: Consolidación del amor."
+      "Margherita se enamora rápidamente de Giulio, idealizándolo, pero él no muestra el mismo compromiso. La relación se queda en la emoción inicial, sin pasar al amor racional ni construirse con acciones reales, lo que genera un vínculo superficial y unilateral.",
+      "Faltan elementos clave como la comunicación auténtica y la reciprocidad. Margherita busca conexión, pero Giulio no responde con la misma apertura, lo que impide el desarrollo de una relación sana y provoca frustración y confusión en ella.",
+      "Margherita entrega mucho emocionalmente, pero Giulio no actúa para fortalecer el vínculo. Esto crea una relación desequilibrada, cercana a lo tóxico, con señales de estancamiento y fragmentación emocional que afectan el bienestar de Margherita."
     ],
     {
       left: ".left-button3",
