@@ -89,7 +89,7 @@ createCarousel(
       "./images/ProfesorStella3.jpg"
     ],
     [
-      "La relación entre el profesor y Stella empieza con una conexión emocional, pero avanza gracias a gestos de cuidado y escucha. Él va más allá del sentimiento, mostrando interés genuino que ayuda a construir un amor más profundo y racional.",
+      "La relación entre el profesor y Stella empieza con una conexión emocional, pero avanza gracias a gestos de cuidado y escucha. Él va más allá del sentimiento, y, a pesar de que inicialmente siente miedo, acaba mostrando interés genuino que ayuda a construir un amor más profundo y racional.",
       "Ambos se respetan, se comunican con empatía y valoran sus diferencias. Se conocen poco a poco, creando un vínculo basado en identidad, intimidad y complementariedad, lo que fortalece su relación de forma sana y estable.",
       "El profesor combina emoción y acción: siente afecto por Stella y actúa para apoyarla. Ella, con libertad, responde desde la reciprocidad. Esta unión de sentimiento y decisión convierte su relación en un amor maduro y real."
     ],
