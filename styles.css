@@ -32,7 +32,14 @@ p{
     top: 0;
     z-index: 1000;
 }
-
+.titleSection {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #b82132;
+    margin-bottom: 4vh;
+    margin-top: 5vh;
+}
 .nav-links {
     width: 100%;
     padding-left: 2vw;
@@ -55,13 +62,16 @@ p{
 }
 
 .title{
-    padding-top: 11vh;
+    padding-top: 11vh;  
+
 }
 
 #who-we-are{
+    margin-top: 4vh;
     display: flex;
     align-items: center;
     justify-content: center;
+    color: #b82132;
 }
 
 .text-who-we-are{
@@ -70,12 +80,129 @@ p{
     justify-content: center;
     text-align: center;
 }
+table {
+    border-collapse: collapse;
+    margin: auto;
+    margin-top: 4vh;
+    margin-bottom: 3vh;
+    width: 80%;
+    font-family: Arial, sans-serif;
+  }
 
+  th, td {
+    border: 1px solid #999;
+    padding: 10px;
+    vertical-align: top;
+    text-align: left;
+  }
+
+  th {
+    background-color: #f2f2f2;
+    font-weight: bold;
+  }
+
+  td[colspan] {
+    background-color: #f9f9f9;
+    font-style: italic;
+  }
+
+.iceberg {
+    position: relative;
+    margin: auto;
+    margin-top: 4vh;
+    width: 50%;
+  }
+
+  .tip {
+    background: #a3dfff;
+    padding: 15px;
+    text-align: center;
+    border-radius: 0 0 80% 80% / 20% 20% 80% 80%;
+    transform: rotate(180deg);
+  }
+  .tip-text{
+    transform: rotate(180deg);
+  }
+  .underwater {
+    background: #0077b6;
+    padding: 20px;
+    border-radius: 0 0 50% 50% / 5% 5% 30% 30%;
+    box-shadow: inset 0 0 30px rgba(0, 0, 0, 0.3);
+  }
+
+  .layer {
+    margin: 20px 0;
+    padding: 10px;
+    background: rgba(255, 255, 255, 0.1);
+    border-radius: 10px;
+  }
+
+  .layer h3 {
+    margin: 0 0 10px;
+    font-size: 16px;
+    color: #66ccff;
+  }
+
+  .layer p {
+    margin: 0;
+    font-size: 14px;
+  }
+
+  .container {
+    max-width: 900px;
+    margin: auto;
+    background: white;
+    padding: 30px;
+    border-radius: 12px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  }
+
+  h1 {
+    color: #a00000;
+    text-align: center;
+    border-bottom: 2px solid #a00000;
+    padding-bottom: 10px;
+    margin-bottom: 30px;
+  }
+
+  .accion {
+    margin-bottom: 25px;
+  }
+
+  .accion h2 {
+    font-size: 18px;
+    color: #003366;
+    margin-bottom: 8px;
+  }
+
+  .accion p {
+    font-size: 16px;
+    color: #444;
+    line-height: 1.5;
+  }
+
+  .resaltado {
+    color: #a00000;
+    font-style: italic;
+    font-weight: bold;
+  }
 
 .AndriusLina, .ProfesorStella, .MargeGulio{
     display: flex;
     align-items: center;
     justify-content: center;
+    color: #b82132;
+}
+
+.tips, .grief {
+    color: #b82132;
+    margin-left: 5vw;
+}
+
+.tusa-text{
+    margin-left: 6vw;
+    margin-bottom: 3vh;
+
 }
 
 .image-button1, .image-button2, .image-button3{
