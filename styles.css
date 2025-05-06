@@ -146,7 +146,8 @@ table {
   .layer p {
     margin: 0;
     font-size: 14px;
-  }
+    color: white
+}
 
   .container {
     max-width: 900px;
